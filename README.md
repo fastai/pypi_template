@@ -21,7 +21,7 @@ password = your_pypi_password
 
 - Write your Python library!
 - Add any package requirements to the `requirements` line in `settings.ini`
-- Run `make release` in the root of your repo. This will:
+- Run `make release` in the root of your repo. This will automatically:
   - Publish to pypi
   - Publish to Anaconda
   - Increment your version number
